@@ -26,4 +26,5 @@ To ensure a reliable foundation for the analysis, preliminary quality checks and
 ### Overview of findings
 The analysis shows that YouTube Live Streams achieve the highest engagement rate at 87%, despite similar view counts across platforms. Instagram Live Streams and TikTok Live Streams have the lowest engagement rates, around 30–31%, suggesting lower audience interaction during live content on these platforms. TikTok videos and YouTube Shorts also stand out with relatively high engagement rates (67% and 81%, respectively). Overall, live content on YouTube and short-form videos on TikTok and YouTube are the most effective formats for driving user engagement.
 
-![Executive Summary](Ave_engagement%_perflatform_percont_type.png)
+![Ave engagement per platform per content type](Ave%20engagement%25%20perflatform%20percont_type.png)
+

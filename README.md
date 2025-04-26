@@ -42,7 +42,7 @@ Below is the overview page from the Power BI dashboard. The entire interactive d
 
 ![Country with the Least Engagement](Country%20with%20the%20least%20engagement2.png)
 
-Here we will analyze the three least performing countries in terms of average engagement%. 
+Here we will analyze the three least performing countries in terms of average engagement (%). 
 ### Brazil
 ### Platform Performance:
 • Twitter Leads: With an average engagement rate of 60.43%, Twitter stands out as the top-performing platform in Brazil. This indicates a highly active and responsive user base on Twitter for your content.  

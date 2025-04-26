@@ -13,8 +13,6 @@ Measuring which platforms drive the most engagement relative to views and conten
 ### • Hashtag Impact
 Analyzing the role that trending hashtags play in driving virality and interaction rates.
 
-PLACE FOR LINKS OF MY PROJECT.
-
 ## Data Structure & Initial Checks
 To ensure a reliable foundation for the analysis, preliminary quality checks and data familiarization steps were carried out using Excel. This included checking for missing values, inconsistent platform naming, duplicate post IDs, and abnormal engagement metrics.
 

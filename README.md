@@ -26,8 +26,21 @@ To ensure a reliable foundation for the analysis, preliminary quality checks and
 ### Overview of findings
 This analysis shows that Instagram leads in views (9.6 billion) and engagement (1.26 billion) across platforms. Overall, the average engagement rate across all platforms is strong at 52.7%, with Instagram performing the best at 60%. Content types like "Live Streams" and "Shorts" achieve the highest engagement rates. Regionally, the USA and Brazil show high engagement rates above 60%, while Germany lags at 32.7%. This data highlights Instagram and short-form content as key drivers for maximizing audience interaction globally.
 
-Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1WOicpQcKDHFJZLlD76x-MHYTkmOTN4Sw/view?usp=sharing)
+Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1WOicpQcKDHFJZLlD76x-MHYTkmOTN4Sw/view?usp=sharing)
 ![Executive Summary](executive%20summary1.png)
+
+## Insights Deep Dive
+### Regional Overall Engagement Performance
+
+• The United States leads with the highest engagement rate at 77.20%, followed by Japan (58.23%), the UK (54.28%), Canada (52.61%), Australia (52.16%), and Brazil (50.97%). India (47.08%) and Germany (32.76%) trail behind, indicating regional variations in audience responsiveness.    
+
+• Germany recorded the lowest overall engagement rate at 32.76%, suggesting an urgent need for revised or localized content strategies in that market.    
+
+• A significant engagement gap of over 44% exists between the United States (77.20%) and Germany (32.76%), highlighting the USA as the strongest opportunity region, while Germany presents challenges.    
+
+• Engagement trends demonstrate the importance of highly localized and audience-specific strategies to maximize performance, especially by adopting best practices from high-performing regions like the USA and Japan.   
+![Region performance](Country20%with20%the20%least20%engagement.png)
+
 
 
 

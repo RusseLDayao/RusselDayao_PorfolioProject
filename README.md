@@ -27,7 +27,7 @@ To ensure a reliable foundation for the analysis, preliminary quality checks and
 This analysis shows that Instagram leads in views (9.6 billion) and engagement (1.26 billion) across platforms. Overall, the average engagement rate across all platforms is strong at 52.7%, with Instagram performing the best at 60%. Content types like "Live Streams" and "Shorts" achieve the highest engagement rates. Regionally, the USA and Brazil show high engagement rates above 60%, while Germany lags at 32.7%. This data highlights Instagram and short-form content as key drivers for maximizing audience interaction globally.
 
 Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1WOicpQcKDHFJZLlD76x-MHYTkmOTN4Sw/view?usp=sharing)
-![Executive Summary](executive%20summary.png)
+![Executive Summary](executive%20summary1.png)
 
 
 

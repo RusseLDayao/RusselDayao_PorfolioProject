@@ -1,9 +1,9 @@
 # RusselDayao_PorfolioProject
 TrendSpark Media, founded in 2016, is a digital marketing agency specializing in viral content optimization and influencer strategy. It partners with brands to scale their online presence through data-driven campaigns across top platforms, including TikTok, Instagram, Twitter, and YouTube.
 
-As a data analyst embedded within the performance insights team, I audited over 5,000 viral social media posts to understand engagement behavior across formats and regions. While TrendSpark collects significant data across its campaigns, this engagement data has not yet been deeply leveraged to optimize platform-specific strategies or content creation.
+As a data analyst embedded within the performance insights team, I audited over 9,000 viral social media posts to understand engagement behavior across formats and regions. While TrendSpark collects significant data across its campaigns, this engagement data has not yet been deeply leveraged to optimize platform-specific strategies or content creation.
 
-This project analyzes and visualizes those trends using Excel to uncover critical insights to enhance content planning, influencer partnerships, and campaign ROI.
+This project analyzes and visualizes those trends using Excel and Power BI to uncover critical insights to enhance content planning, influencer partnerships, and campaign ROI.
 
  Insights and recommendations are provided on the following key areas:
 ### • Content Type Performance
@@ -11,6 +11,8 @@ Comparing the performance of different content types (Reels, Shorts, Tweets, Pos
 ### • Platform Effectiveness
 Measuring which platforms drive the most engagement relative to views and content type.
 ### • Hashtag Impact
+Analyzing the role that trending hashtags play in driving virality and interaction rates.  
+### • Improving region with the least engagement
 Analyzing the role that trending hashtags play in driving virality and interaction rates.
 
 ## Data Structure & Initial Checks
@@ -22,7 +24,7 @@ To ensure a reliable foundation for the analysis, preliminary quality checks and
 
 ## Executive Summary
 ### Overview of findings
-This analysis shows that Instagram leads in views (9.6 billion) and engagement (1.26 billion) across platforms. Overall, the average engagement rate across all platforms is strong at 52.7%, with Instagram performing the best at 60%. Content types like "Live Streams" and "Shorts" achieve the highest engagement rates. Regionally, the USA and Brazil show high engagement rates above 60%, while Germany lags at 32.7%. This data highlights Instagram and short-form content as key drivers for maximizing audience interaction globally.
+This analysis shows that Instagram leads in views (9.5 billion) and engagement (1.28 billion) across platforms. Overall, the average engagement rate across all platforms is strong at 52.7%, with Instagram performing the best at 61%. Content types like "Live Streams" and "Shorts" achieve the highest engagement rates. Regionally, the USA shows high engagement rates above 70%, while Germany lags at 32.76%. This data highlights Live-stream and short-form content as key drivers for maximizing audience interaction globally.
 
 Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1FVmJrd_GSJkrSFB63pztr2QMiNC-bj4-/view?usp=sharing)  
 ![Executive Summary](executive%20summary1.png)
@@ -30,11 +32,11 @@ Below is the overview page from the Power BI dashboard. The entire interactive d
 ## Insights Deep Dive
 ### Regional Overall Engagement Performance
 
-• The United States leads with the highest engagement rate at 77.20%, followed by Japan (58.23%), the UK (54.28%), Canada (52.61%), Australia (52.16%), and Brazil (50.97%). India (47.08%) and Germany (32.76%) trail behind, indicating regional variations in audience responsiveness.    
+• The United States leads with the highest engagement rate at 70.77%, followed by Japan (58.23%), the UK (54.28%), Canada (52.61%), Australia (52.16%), and Brazil (50.97%). India (47.08%) and Germany (32.76%) trail behind, indicating regional variations in audience responsiveness.    
 
 • Germany recorded the lowest overall engagement rate at 32.76%, suggesting an urgent need for revised or localized content strategies in that market.    
 
-• A significant engagement gap of over 44% exists between the United States (77.20%) and Germany (32.76%), highlighting the USA as the strongest opportunity region, while Germany presents challenges.    
+• A significant engagement gap of over 38% exists between the United States (77.20%) and Germany (32.76%), highlighting the USA as the strongest opportunity region, while Germany presents challenges.    
 
 • Engagement trends demonstrate the importance of highly localized and audience-specific strategies to maximize performance, especially by adopting best practices from high-performing regions like the USA and Japan.  
 
@@ -43,9 +45,9 @@ Below is the overview page from the Power BI dashboard. The entire interactive d
 Here we will analyze the three least performing countries in terms of average engagement (%). 
 ### Brazil
 ### Platform Performance:
-• Twitter Leads: With an average engagement rate of 60.43%, Twitter stands out as the top-performing platform in Brazil. This indicates a highly active and responsive user base on Twitter for your content.  
+• Twitter Leads: With an average engagement rate of 60.43%, Twitter stands out as the top-performing platform in Brazil. This indicates a highly active and responsive user base on Twitter content.  
 
-• Instagram Shows Promise: While the overall average engagement rate is provided for Brazil as a whole, the individual platform breakdown shows TikTok also has a significant engagement rate (50.51% ), suggesting a strong appetite for post content on this platform within the Brazilian market.  
+• Instagram Shows Promise: While the overall average engagement rate is provided for Brazil as a whole, the individual platform breakdown shows Instagram also has a significant engagement rate (50.51% ), suggesting a strong appetite for post content on this platform within the Brazilian market.  
 
 • YouTube's Solid Performance: YouTube maintains a respectable engagement rate of 44.74%, highlighting its importance for video content and audience interaction in Brazil.  
 
@@ -82,14 +84,14 @@ Here we will analyze the three least performing countries in terms of average en
 ### Content Type Effectiveness:
 • Tweets Lead Significantly: Tweets have the highest engagement rate in India at 57.60%, aligning with Twitter's overall strong performance.  
 
-• Live Streams Engage Strongly: Live streams also show a high engagement rate in India at 51.89%, suggesting a strong appetite for real-time interaction.
+• Live Streams Engage Strongly: Live streams also show a high engagement rate in India at 51.69%, suggesting a strong appetite for real-time interaction.
 
 • Posts and Shorts Perform Well: Traditional posts (40.46%) and Shorts (49.95%) also demonstrate good engagement.  
 
 ### Hashtag Impact:
 • #Music Dominates: The hashtag #Music shows the highest engagement rate in India at 70.52% , indicating a strong interest in music-related content.  
 
-• #Education and #Fitness Perform Well: #Music (65.22%) and #Fitness (62.33%) also exhibit high engagement, suggesting popular content themes.  
+• #Education and #Fitness Perform Well: #Education (65.22%) and #Fitness (62.33%) also exhibit high engagement, suggesting popular content themes.  
 
 ![India](India%20overall%20performance1.png)
 ### Germany
@@ -119,7 +121,7 @@ Here we will analyze the three least performing countries in terms of average en
 
 • #Fitness Shows Promise: #Fitness demonstrates a good engagement rate of 40.05%, suggesting an interest in health and wellness.  
 
-• Lower Engagement for Others: Other hashtags like #Comedy (29.98%), #Dance (24.27%), and #Tech (29.57%) show moderate engagement.  
+• Lower Engagement for Others: Other hashtags like #Challenge (22.63%), #Dance (24.27%), and #Tech (29.57%) show moderate engagement.  
 
 
 ![Germany](Germany%20overall%20performance1.png)  
@@ -145,7 +147,7 @@ Based on the uncovered insight from the three least performing countries, the fo
 
 • Explore Fitness, Music, and Education Content: Tap into the strong interest in #Fitness, #Music, and #Education by incorporating these themes into your content strategy to maximize reach and interaction in India.  
 
-• Prioritize TikTok and YouTube for Video: Given their leading engagement rates, focus your video content efforts on TikTok for short-form and YouTube for longer-form content to maximize audience interaction in Germany.  
+• Prioritize Instagram and Twitter for Video: Given their leading engagement rates, focus your video content efforts on Instagram for Live-stream and Twitter for longer-form content to maximize audience interaction in India.  
 ### Germany
 • Embrace Video and Reels: Recognize the strong performance of both standard videos and Reels. Invest in creating compelling video content tailored to each format to capitalize on this trend.  
 
